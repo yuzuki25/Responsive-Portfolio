@@ -216,6 +216,7 @@ input[type=submit] {
   border: 0 none;
 }
 
+/*Didn't get to figuring out how to use media queries to format the pages respective to the screen sizes*/
 @media screen and (max-width: 980px)
 @media screen and (max-width: 768px)
 @media screen and (max-wdth: 640px)
